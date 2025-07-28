@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamupa48" alt="shivamupa48" /></a> </p>
 
-- 🔭 I’m currently working on **Interned at a startup developing real-time web apps for organizations, using PHP Laravel for both backend and frontend solutions.**
+- 🔭 **Completed a 45-day internship at a startup developing real-time web apps for organizations, using PHP Laravel for both backend and frontend solutions.**
 
 - 🌱 I’m currently learning **Spring boot & DSA**
 
